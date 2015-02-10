@@ -2,11 +2,11 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>markdownviewer@thiht.fr</em:id>
-		<em:version>1.8</em:version>
+		<em:version>1.8+</em:version>
 		<em:type>2</em:type>
 
 		<em:name>Markdown Viewer</em:name>
-		<em:creator>Thiht</em:creator>
+		<em:creator>Thiht/Kribesk</em:creator>
 		<em:description>Markdown document viewer.</em:description>
 		<em:iconURL>chrome://markdown-viewer/skin/icon32.png</em:iconURL>
 
@@ -24,7 +24,7 @@
 				<em:locale>en-US</em:locale>
 				<em:name>Markdown Viewer</em:name>
 				<em:description>Markdown document viewer.</em:description>
-				<em:creator>Thiht</em:creator>
+				<em:creator>Thiht/Kribesk</em:creator>
 				<em:translator>Thiht</em:translator>
 			</Description>
 		</em:localized>
